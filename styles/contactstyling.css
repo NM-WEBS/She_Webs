@@ -1,0 +1,22 @@
+.contactImg{
+    width: 700px;
+    height: 700px;
+    border-radius: 50%;
+    padding: 90px 90px 90px 90px ;
+}
+
+.contact-heading{
+    font-family:"Brush Script MT";
+    font-size: 65px;
+    text-align: center;
+    float: center;
+    padding-right: 90px;
+   
+}
+p{
+    font-size: 25px;
+    font-family:"Baskerville Old Face";
+    text-align: justify;
+    float: center;
+    padding-right: 90px;
+}
