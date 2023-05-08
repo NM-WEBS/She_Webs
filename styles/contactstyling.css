@@ -6,7 +6,7 @@
 }
 
 .contact-heading{
-    font-family:"Brush Script MT";
+    font-family:"Baskerville Old Face";
     font-size: 65px;
     text-align: center;
     float: center;
@@ -19,4 +19,33 @@ p{
     text-align: justify;
     float: center;
     padding-right: 90px;
+}
+li{
+    font-size:  25px;
+    font-family: "Baskerville Old Face";
+}
+.Socials{
+    position:fixed;
+    left: 0;
+    bottom:0;
+    width: 100%;
+    background-color: #fff5f5;;
+    overflow:auto;
+    padding: 0;
+    border: 0;
+    margin:0;
+    font-family: "Brush Script MT";
+    font-size: 16px;
+}
+.SMI{
+    padding-left: 50px;
+    
+}
+body{
+    background-color: #fff5f5;
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
 }
